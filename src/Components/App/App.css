@@ -1,0 +1,15 @@
+main {
+  text-align: center;
+}
+
+
+.todo-section {
+  height: 15em;
+  overflow: scroll;
+}
+
+.todo {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
